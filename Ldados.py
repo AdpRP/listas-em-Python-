@@ -9,11 +9,7 @@ def al():
     lista=[]
     colunas0=2
     alunosinseridos=4
-    c = 0
-    d=0
-    n=0
-    no=0
-    si=0
+    c,d,n,no,si=0
     for i in range(colunas0): #colunas 
         nome=[]
         numero=[]
